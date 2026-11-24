@@ -1,3 +1,5 @@
+// This program writes a single line of text to the entry file (entry.txt)
+// in the output directory (MAKEFUN_OUTPUT_DIR, or /output by default).
 import * as fs from "node:fs";
 import * as path from "node:path";
 
